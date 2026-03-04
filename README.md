@@ -63,15 +63,17 @@ src/main/resources
 
 ## 🖼️ Screenshots
 **Register Page:**  
-![Register Page](screenshots/register.png)  
+![Register Page]<img width="1738" height="751" alt="Register" src="https://github.com/user-attachments/assets/95652989-80b8-45f0-a840-862f7ee15f63" />
+
 
 **Employee List Page:**  
-![Employee List](screenshots/emplist.png)  
+![Employee List]<img width="1563" height="675" alt="emplist" src="https://github.com/user-attachments/assets/a60c283d-a198-4bb5-bcb2-4d43557ba3ac" />
+
 
 **Update Employee Page:**  
-![Update Page](screenshots/updateemp.png)  
+![Update Page]<img width="1507" height="683" alt="updateemp" src="https://github.com/user-attachments/assets/93facc0f-8b9e-4590-94ff-a521a05d67b0" />
+  
 
-> *(Replace `screenshots/...` with your actual screenshot paths in the repo)*  
 
 ---
 
